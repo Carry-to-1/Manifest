@@ -37,6 +37,12 @@
 - [ ] MIT 6.006: Introduction to Algorithms
 - [ ] MIT 6.046: Design and Analysis of Algorithms
 
+---
+
+### MyCollege Curriculum [B Tech. Ed. IT](https://www.radiantcollege.edu.np/programs/e904100b-1b37-43d3-8a7b-1d7a6a4feea7/btech-ed-in-information-technology-btech-ed-it)
+
+#### First Semester
+
 
 ---
 
