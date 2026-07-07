@@ -25,19 +25,18 @@
 ##### Advance : 
 
 - [ ] UNSW CS3231 / CS9242 – Advanced Operating Systems
-- [ ] CS140e 
+- [ ] CS140e
+- [ ] MIT 6.172 Performance Engineering of Software Systems
 - [ ] MIT 6.5950 Secure HW Design
 - [ ] MIT 6.824 Distributed Systems
 
 #### Computer Security
 - [ ] MIT 6.858: Computer System Security
-- [ ] 
-
 
 #### Other 
 - [ ] MIT 6.006: Introduction to Algorithms
 - [ ] MIT 6.046: Design and Analysis of Algorithms
-- [ ] 
+
 
 
  
