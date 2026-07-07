@@ -10,7 +10,7 @@
 - [ ] C [ MIT 6.S096 Effective Programming in C and C++, MIT 6.088 Introduction to C Memory Management and C++ Object-Oriented Programming, MIT 6.087 Practical Programming in C, CodeWithHarry]
 - [ ] Rust [ CS 110L Safety in systems programming ]
 
-#### Courses to study ~
+### Courses to study ~
 
 - [x] Federico Busato Slides
 - [ ] MIT 6.S096 Effective Programming in C and C++
@@ -22,7 +22,7 @@
 - [ ] MIT 6.S081: Operating System Engineering
 - [ ] CS162: Operating System
 
-##### Advance : 
+#### Advance : 
 
 - [ ] UNSW CS3231 / CS9242 – Advanced Operating Systems
 - [ ] CS140e
@@ -30,15 +30,22 @@
 - [ ] MIT 6.5950 Secure HW Design
 - [ ] MIT 6.824 Distributed Systems
 
-#### Computer Security
+### Computer Security
 - [ ] MIT 6.858: Computer System Security
 
-#### Other 
+### DSA 
 - [ ] MIT 6.006: Introduction to Algorithms
 - [ ] MIT 6.046: Design and Analysis of Algorithms
 
 
+---
 
- 
+## Final Goal ~
 
+**AS my works revolve around a question ~ "Can a general-purpose operating system be designed so that security is a fundamental property without compromising performance?"**
+
+- [ ] My goal is to make a secure general purpose operating systems and I am currenty exploring Sel4 kernel and LionsOS.
+&
+- [ ] My major goal is to serve my nation by starting a research institue by networking with some experience professors & researcher as well as my peers so i can start a small research institue like KAIST,MIT ... 
+Everything is possible lets just start by small steps ....
 
