@@ -1,4 +1,4 @@
-# Manifest
+# Roadmap
 
 ## Learning Path
 
@@ -73,13 +73,4 @@
 **Want to deep drive ~ [Syallbus](https://www.radiantcollege.edu.np/home/download)**
 
 ---
-
-## Final Goal ~
-
-**AS my works revolve around a question ~ "Can a general-purpose operating system be designed so that security is a fundamental property without compromising performance?"**
-
-- [ ] My goal is to make a secure general purpose operating systems and I am currenty exploring Sel4 kernel and LionsOS </br>
-&
-- [ ] My major goal is to serve my nation by starting a research institue by networking with some experience professors & researcher as well as my peers so i can start a small research institue like KAIST,MIT ... 
-Everything is possible lets just start by small steps ....
 
